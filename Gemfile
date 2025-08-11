@@ -17,7 +17,9 @@ gem "stimulus-rails"
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 gem "jbuilder"
 # Admin framework for Rails apps [https://github.com/thoughtbot/administrate]
-gem "administrate", "~> 0.20.1"
+gem "administrate", "1.0.0.beta3"
+# Use Dart Sass for stylesheets
+gem "dartsass-rails"
 
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
 # gem "bcrypt", "~> 3.1.7"
